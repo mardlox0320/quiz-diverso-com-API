@@ -1,0 +1,25 @@
+#quiz-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70rem;
+    margin-left: 22.5rem;
+    background: linear-gradient(50deg, rgb(4, 8, 252), rgb(255, 0, 0) );
+    padding: 2rem;
+    border-radius: 10px;
+    height: 20rem;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+}
+button {
+    background-color: #604cb8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
